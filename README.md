@@ -7,4 +7,5 @@ This JAVA code
 5. outputs stations count on each line and counts interconnections
 
 I've used Maven and Java 11.
-This code works with wayback machine snapshot. In current version of site https://www.moscowmap.ru/metro.html#lines there is no interconnections. Supported page version is attached.
+This code works with wayback machine snapshot https://web.archive.org/web/20210614210942/https://www.moscowmap.ru/metro.html#lines. 
+In current version of site https://www.moscowmap.ru/metro.html#lines there is no interconnections. Supported page version is attached.
